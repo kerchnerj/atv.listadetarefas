@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(74, 118, 74, 0.775);
+}
+
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.container{
+    width: 50%;
+    margin: 20px auto 0px auto;
+    background-color: rgb(90, 117, 98);
+    border-radius: 10px;
+}
+
+.removed{
+    color: white;
+}
+
+.removed label{
+    text-decoration: line-through;
+    
+
+}
+
+ul li{
+    list-style-type: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.add-task{
+    background-color: rgb(240, 240, 240);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
